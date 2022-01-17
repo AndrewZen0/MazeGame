@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Game
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 875, y: 471}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -71,10 +71,10 @@ MonoBehaviour:
     y: 0
     width: 309
     height: 957
-  m_MinSize: {x: 200, y: 321}
-  m_MaxSize: {x: 4002, y: 8021}
+  m_MinSize: {x: 202, y: 342}
+  m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 1389
+  controlID: 40
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,10 +151,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 957
-  m_MinSize: {x: 909, y: 421}
-  m_MaxSize: {x: 22006, y: 10021}
+  m_MinSize: {x: 910, y: 442}
+  m_MaxSize: {x: 22005, y: 10021}
   vertical: 0
-  controlID: 65
+  controlID: 86
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,10 +197,10 @@ MonoBehaviour:
     y: 0
     width: 907
     height: 957
-  m_MinSize: {x: 201, y: 421}
-  m_MaxSize: {x: 4001, y: 8021}
+  m_MinSize: {x: 201, y: 442}
+  m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 90
+  controlID: 95
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 429
     height: 957
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -324,8 +324,8 @@ MonoBehaviour:
     y: 491
     width: 907
     height: 466
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -386,7 +386,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 52fbffff
+      m_ExpandedIDs: 52fbffff4a3c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -499,7 +499,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: c6490000
     m_LastClickedID: 18886
-    m_ExpandedIDs: 00000000623c0000
+    m_ExpandedIDs: 00000000843c0000863c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -527,21 +527,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000623c0000d23c0000
+    m_ExpandedIDs: ffffffff00000000843c0000863c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: LoopScript
+      m_OriginalName: LoopScript
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 16628
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -708,9 +708,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.7974253, y: 10.538105, z: -11.378395}
+    m_Target: {x: 1.9863503, y: 5.7154717, z: -9.968578}
     speed: 2
-    m_Value: {x: 7.7974253, y: 10.538105, z: -11.378395}
+    m_Value: {x: 1.9863503, y: 5.7154717, z: -9.968578}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -757,20 +757,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.20311019, y: 0.58633846, z: -0.15491737, w: -0.76873964}
+    m_Target: {x: 0.29722673, y: 0.013185558, z: -0.004110767, w: 0.9547257}
     speed: 2
-    m_Value: {x: -0.20310953, y: 0.58633655, z: -0.15491688, w: -0.76873714}
+    m_Value: {x: 0.29722145, y: 0.013185324, z: -0.004110694, w: 0.9547087}
   m_Size:
-    m_Target: 10
+    m_Target: 0.592605
     speed: 2
-    m_Value: 10
+    m_Value: 0.592605
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.3003498
-    m_SpeedNormalized: 0.6499999
+    m_Speed: 2
+    m_SpeedNormalized: 1
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
